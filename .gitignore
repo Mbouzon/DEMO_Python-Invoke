@@ -10,5 +10,5 @@
 # Arquivos do MACOS para armazenar atributos da pasta corrente
 .DS_Store
 
-# Pasta de logfiles(padrão que uso)
-LogFiles/*.*
+# logfiles(padrão que uso)
+*.log
