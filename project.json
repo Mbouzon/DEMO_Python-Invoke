@@ -1,6 +1,6 @@
 {
   "name": "DEMO_Python-Invoke",
-  "description": "Demonstração de execução de scripts Python",
+  "description": "Demonstração de Execução de Python scripts",
   "main": "Main.xaml",
   "dependencies": {
     "UiPath.Python.Activities": "[1.1.6863.33404]",
